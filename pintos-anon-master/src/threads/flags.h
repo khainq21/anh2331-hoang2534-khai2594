@@ -8,3 +8,5 @@
 #endif /* threads/flags.h */
 // da chinh sua nhu nay duocj chua.
 // nang am xa dan.
+// lan 2 chinh sua nhuw naygit 
+// chinh sua lan 2
