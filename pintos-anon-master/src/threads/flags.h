@@ -6,3 +6,4 @@
 #define FLAG_IF   0x00000200    /* Interrupt Flag. */
 
 #endif /* threads/flags.h */
+// da chinh sua nhu nay duocj chua.
