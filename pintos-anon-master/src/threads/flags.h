@@ -7,3 +7,4 @@
 
 #endif /* threads/flags.h */
 // da chinh sua nhu nay duocj chua.
+// nang am xa dan.
